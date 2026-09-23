@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bwhelper",
+  "name": "BWHelper",
+  "description": "Bed Wars helper.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Ersites/bwhelper",
+  "updateUrl": "",
+  "authorList": ["Ersit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
